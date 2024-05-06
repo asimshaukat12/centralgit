@@ -1,1 +1,2 @@
+Hello, I'm merging thos file from test branch.
 Hello, I'm merging this file.
